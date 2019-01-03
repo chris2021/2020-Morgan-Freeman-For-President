@@ -9,6 +9,7 @@ padding: 20px;
 margin-right:20px;
 margin-bottom:20px;
 text-align: center;
+font-family: 'Charm', cursive;
 }
 button {
     width: 200px;
@@ -17,19 +18,22 @@ button {
 body {
 background-color: lightgreen;
 }
-.pres-photos {
+.pres-photos {    
     display: flex;
     justify-content:space-around;
     
 }    
 .clickhere {
-
     text-align:center;
 }    
 p {
     text-align: center;
+    font-family: 'Charm', cursive;
 }    
 .morgan {
     padding-left:200px;
     padding-right:200px;
+}    
+h2 {
+    font-family: 'Charm', cursive;
 }    
