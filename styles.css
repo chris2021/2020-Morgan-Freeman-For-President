@@ -1,0 +1,26 @@
+.freeman {
+    display:flex;
+     color:blue;
+}  
+h1 {
+border: double blue 20px;
+padding: 20px;
+margin-right:5px;
+margin-bottom:20px;
+}
+button {
+    width: 200px;
+    text-align:center;
+}
+body {
+background-color: lightgreen;
+}
+.pres-photos {
+    display: flex;
+    justify-content:space-around;
+    
+}    
+.clickhere {
+
+    text-align:center;
+}    
